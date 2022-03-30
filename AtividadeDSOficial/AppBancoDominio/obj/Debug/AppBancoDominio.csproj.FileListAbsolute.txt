@@ -1,0 +1,6 @@
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\obj\Debug\AppBancoDominio.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\vitor\Desktop\etec_segundo\ds\AtividadeOficial\AtividadeDSOficial\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
